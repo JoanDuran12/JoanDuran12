@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Joan 
 
-#### I'm currently a Senior Computer Science student at Wentworth Institute of Technology. <br /> Aspiring Software Engineer / Web Developer.
+#### I'm currently a Senior Computer Science student at Wentworth Institute of Technology. <br /> <span style="color:yellow">Aspiring Software Engineer / Web Developer.</span>
 
 ##### Portfolio -> https://joanduran.vercel.app/
 
