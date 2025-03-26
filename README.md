@@ -1,5 +1,8 @@
-## Hi there 👋,
+## Hi there 👋, I'm Joan 
 
+### I'm currently a Senior Computer Science student at Wentworth Institute of Technology. Aspiring Software Engineer / Web Developer.
+
+### Portfolio -> https://joanduran.vercel.app/
 <!--
 **JoanDuran12/JoanDuran12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
