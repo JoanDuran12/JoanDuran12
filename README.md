@@ -5,7 +5,7 @@
 ##### Portfolio -> https://joanduran.vercel.app/
 
 ## Tech Stack 
-![image]({https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white})
+![image](https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE)
 
 ## My Github
 <!--
