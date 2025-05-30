@@ -28,11 +28,22 @@ Feel free to reach out, always looking forward to connect or collaborate <br>
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## Currently Focusing On
+- Working on my Senior Project: [NearBy](https://github.com/JoanDuran12/NearBy)
+
+- Working on my Own Open Source: [ResumeRight: AI-Powered Resume Builder](https://github.com/JoanDuran12/ResumeRight)
+
+- Diping my toes in: &nbsp;
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
 - Currently getting better at: &nbsp;
 ![image](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-## My Github
+## My Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoanDuran12&layout=compact&theme=onedark)
 
 <!--
