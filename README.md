@@ -29,7 +29,7 @@ Feel free to reach out, always looking forward to connect or collaborate <br>
 ## Currently Focusing On
 - Working on my Senior Project: [NearBy](https://github.com/JoanDuran12/NearBy)
 
-- Working on my Own Open Source: [ResumeRight: AI-Powered Resume Builder](https://github.com/JoanDuran12/ResumeRight)
+- Working on my Own Open Source Project: [ResumeRight: AI-Powered Resume Builder](https://github.com/JoanDuran12/ResumeRight)
 
 - Diping my toes in: &nbsp;
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
