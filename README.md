@@ -1,6 +1,6 @@
 ## Welcome In 👋👋👋, I'm Joan Duran 
 
-## Contact
+## My Contact
 Feel free to reach out, always looking forward to connect or collaborate <br>
 - [Linkedln: https://www.linkedin.com/in/joan-duran/](https://www.linkedin.com/in/joan-duran/) <br>
 - [Email: joanduran.dev@gmail.com](mailto:joanduran.dev@gmail.com) <br>
@@ -42,6 +42,8 @@ Feel free to reach out, always looking forward to connect or collaborate <br>
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+- Constantly expanding my skills whenever possible. Love ❤️ min-maxing my accounts.
 
 ## My Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoanDuran12&layout=compact&theme=onedark)
