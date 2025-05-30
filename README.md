@@ -1,6 +1,5 @@
 ## Welcome In 👋👋👋, I'm Joan Duran 
 
-## My Contact
 Feel free to reach out, always looking forward to connect or collaborate <br>
 - [Linkedln: https://www.linkedin.com/in/joan-duran/](https://www.linkedin.com/in/joan-duran/) <br>
 - [Email: joanduran.dev@gmail.com](mailto:joanduran.dev@gmail.com) <br>
