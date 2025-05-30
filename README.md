@@ -1,23 +1,20 @@
 ## Welcome In 👋👋👋, I'm Joan Duran 
 
-#### I'm currently a Senior Computer Science student at Wentworth Institute of Technology. ***Aspiring Software Engineer / Web Developer.***
-
 ## Contact
 Feel free to reach out, always looking forward to connect or collaborate <br>
-[Linkedln: https://www.linkedin.com/in/joan-duran/](https://www.linkedin.com/in/joan-duran/) <br>
-[Email: joanduran.dev@gmail.com](mailto:joanduran.dev@gmail.com) <br>
-[Check out my Portfolio](https://joanduran.vercel.app/) <br>
+- [Linkedln: https://www.linkedin.com/in/joan-duran/](https://www.linkedin.com/in/joan-duran/) <br>
+- [Email: joanduran.dev@gmail.com](mailto:joanduran.dev@gmail.com) <br>
+- [Check out my Portfolio](https://joanduran.vercel.app/) <br>
 
 ## Tech Stack 
-Programming Languagues: &nbsp; 
+- Programming Languagues: &nbsp; 
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-
-Framework/Libraries: &nbsp;
+- Framework/Libraries: &nbsp;
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -25,13 +22,13 @@ Framework/Libraries: &nbsp;
 ![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![image](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
-Databases/Others: &nbsp;
+- Databases/Others: &nbsp;
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## Currently Focusing On
-Currently getting better at: &nbsp;
+- Currently getting better at: &nbsp;
 ![image](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
