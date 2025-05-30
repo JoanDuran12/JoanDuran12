@@ -1,8 +1,11 @@
-## Hi there 👋, I'm Joan 
+## Welcome In 👋👋👋, I'm Joan Duran 
 
 #### I'm currently a Senior Computer Science student at Wentworth Institute of Technology. ***Aspiring Software Engineer / Web Developer.***
 
-##### Portfolio -> https://joanduran.vercel.app/
+## Contact -> Feel free to reach out, always looking forward to connect or collaborate
+[Linkedln: https://www.linkedin.com/in/joan-duran/](https://www.linkedin.com/in/joan-duran/)
+[Email: joanduran.dev@gmail.com](mailto:joanduran.dev@gmail.com)
+[Check out my Portfolio](https://joanduran.vercel.app/)
 
 ## Tech Stack 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -17,8 +20,8 @@
 ![image](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![image](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
-#### Currently Learning 
-Even tho I have made cool projects with them 😂 <br> <br>
+#### Currently Focusing On
+Even tho I have made cool projects with them 😂
 ![image](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
