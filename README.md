@@ -3,7 +3,7 @@
 Feel free to reach out, always looking forward to connect or collaborate <br>
 - [Linkedln: https://www.linkedin.com/in/joan-duran/](https://www.linkedin.com/in/joan-duran/) <br>
 - [Email: joanduran.dev@gmail.com](mailto:joanduran.dev@gmail.com) <br>
-- [Check out my Portfolio](https://joanduran.vercel.app/) <br>
+- [Check out my Portfolio](https://www.joanduran.dev/) <br>
 
 ## Tech Stack 
 - Programming Languagues: &nbsp; 
